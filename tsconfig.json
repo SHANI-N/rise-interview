@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "https://sdk.streamrail.com/interview/index.html",
+        "target": "es5",
+        "lib": [
+            "es5",
+            "dom"
+        ],
+        "types": [
+            "cypress",
+            "node"
+        ]
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
